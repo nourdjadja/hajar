@@ -1,5 +1,3 @@
-## Next.js App Router Course - Starter
+## Hajar - Connect silently
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Hajar is a website that allows its users to create and publish anonymous notes all throughout the words from their sole computer.
