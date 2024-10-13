@@ -1,13 +1,13 @@
 # Project Overview: Hajar 🌍
 
 ## Description
-Hajar is a mobile and web app that lets you leave notes around the world! 📝✨ Whether you're sharing travel tips, local secrets, or funny stories, Hajar connects people through location-based notes. It's like leaving messages for fellow explorers wherever you go.
+Hajar is a mobile app that lets you leave notes around the world! 📝✨ Whether you're sharing travel tips, local secrets, or funny stories, Hajar connects people through location-based notes. It's like leaving messages for fellow explorers wherever you go.
 
 ## Objectives
 - **Build Community Connections:** Connect people through shared experiences and local insights.
 - **Enhance Exploration:** Provide a fun way to discover hidden gems and local culture.
 - **Keep It Safe and Fun:** Ensure a positive and respectful environment through moderation.
-- **Make It Accessible:** Offer a seamless experience across iOS, Android, and web platforms.
+- **Make It Accessible:** Offer a seamless experience across iOS & Android  platforms.
 
 ## Scope
 - **Features:** User authentication, note creation/viewing by location, moderation tools, and basic user profiles.
